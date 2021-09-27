@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+    height: 160px;
+    width: 90%;
+    margin: auto;
+    background-color: rgba(221, 221, 203, 0.623);
+    border-radius: 10px;
+    
+}

@@ -1,0 +1,13 @@
+.total{
+    margin-left:50px;
+    padding-right: 200px;
+    width: 150px;
+    height:100%;
+    border-radius: 10px;
+    
+    background-color: rgb(222, 184, 135);
+    }
+    .text-color{
+            color:red;
+    }
+    
